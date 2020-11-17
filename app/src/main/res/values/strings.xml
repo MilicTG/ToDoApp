@@ -4,4 +4,18 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="add">add</string>
     <string name="no_data">No Data</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="search">Search</string>
+    <string name="sort_by">Sort By</string>
+    <string name="priority_high">Priority High</string>
+    <string name="priority_low">Priority Low</string>
+    <string name="delete_all">Delete All</string>
+
+
+    <string-array name="priorities">
+        <item>High priority</item>
+        <item>Medium priority</item>
+        <item>Low priority</item>
+    </string-array>
 </resources>
