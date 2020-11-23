@@ -4,7 +4,7 @@
 
 
     <item
-        android:id="@+id/enu_add"
+        android:id="@+id/menu_add"
         android:icon="@drawable/ic_check"
         android:iconTint="@color/white"
         android:title="@string/add"
